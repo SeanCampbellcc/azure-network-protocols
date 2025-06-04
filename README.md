@@ -23,7 +23,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Connecting to Azure</h2>
 
 - Step 1 Have Azure Tenant and Subscription created
 - Step 2 Find and connect to the virtual mahine by getting the IP address in Azure under the virtual machine u are using
